@@ -1,35 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@xMadKing
-xMadKing /
-juice-shop
-Public
-forked from juice-shop/juice-shop
-
-Cannot fork because you own this repository and are not a member of any organizations.
-
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-
-    Settings
-
-Beta Try the new code view
-juice-shop/threat-model.json
-@bkimminich
-bkimminich Add threat model diagram
-Latest commit 894043c Apr 19, 2021
-History
-1 contributor
-1070 lines (1070 sloc) 31.1 KB
 {
   "summary": {
     "title": "OWASP Juice Shop",
@@ -1100,20 +1068,3 @@ History
     ]
   }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-juice-shop/threat-model.json at master · xMadKing/juice-shop
